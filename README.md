@@ -1,1 +1,1 @@
-find the stocks with highest moving average during specific reocurring events-sporting,musical,etc.
+find the stocks with the highest moving average during specific reocurring events-sporting, musical, etc.
